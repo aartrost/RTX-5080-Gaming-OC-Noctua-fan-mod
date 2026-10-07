@@ -1,0 +1,6 @@
+# Python 3.10 to 3.12 (CadQuery does not yet support newer versions)
+cadquery>=2.4
+reportlab
+
+# only for tools/render.py
+pyvista

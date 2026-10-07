@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# SVG previews written by fan_plate.py
+preview/
+
+# macOS
+.DS_Store
